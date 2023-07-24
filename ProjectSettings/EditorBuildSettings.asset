@@ -7,11 +7,9 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/_Scenes/scene1 - 360 video.unity
-    guid: 72888452b2c9844d9b298dfb405044d0
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects:
-    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 65eada5edf5f16b4a9d0bd3a76fa026f,
-      type: 2}
-    WebXR.Settings: {fileID: 11400000, guid: a5e5b7605fb48984988490688c2a74e2, type: 2}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 552445d583cb06c4eaf9d56596dd45c2,
-      type: 2}
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 2cb65d6ea16e64801a9951927b6fac83, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: e04ea461631664602bb56992afa25d09, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: c8c10194c785c40feb878460cb30d21f, type: 2}
   m_UseUCBPForAssetBundles: 0
